@@ -1,5 +1,9 @@
 <p align="center">
-  <img alt="GitHub" src="https://img.shields.io/github/license/EliasGcf/feedget?color=%238257E5">
+  <img alt="Feedget Mockup" src=".github/mockup.png">
+</p>
+
+<p align="center">
+  <img alt="GitHub" src="https://img.shields.io/github/license/TSMota/feedget?color=%238257E5">
 </p>
 
 <p align="center">
